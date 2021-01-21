@@ -1,0 +1,1 @@
+# front_end_shop_template_init_project
